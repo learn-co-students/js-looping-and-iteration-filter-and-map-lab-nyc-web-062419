@@ -10,7 +10,7 @@ describe('index.js', function () {
       { name: 'Annette', revenue: 200 },
       { name: 'Jim',     revenue: 150 }
     );
-
+ 
     extendedDrivers.length = 0;
 
     extendedDrivers.push(
